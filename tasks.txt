@@ -1,0 +1,4 @@
+Finish the daily task emailer project
+Push code to GitHub
+Study Web Scraping
+Review Logseq notes
